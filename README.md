@@ -4,7 +4,7 @@ Dashboard analítico e interactivo desarrollado en **Power BI Desktop** para exp
 
 ---
 
-## 📌 Descripción del Proyecto
+## Descripción del Proyecto
 
 Este proyecto analiza las ventas globales de copias de videojuegos segmentadas por plataformas, géneros, editoriales y regiones geográficas clave (Norteamérica, Europa, Japón y Resto del Mundo).
 
@@ -16,7 +16,7 @@ El reporte permite responder a preguntas estratégicas de negocio:
 
 ---
 
-## 📊 Vistas y Componentes del Dashboard (`CopiasJuegos.pbix`)
+## Vistas y Componentes del Dashboard (`CopiasJuegos.pbix`)
 
 El cuadro de mando interactivo cuenta con las siguientes visualizaciones y controles:
 
@@ -41,7 +41,7 @@ El cuadro de mando interactivo cuenta con las siguientes visualizaciones y contr
 
 ---
 
-## 🔄 Proceso ETL y Modelado de Datos
+## Proceso ETL y Modelado de Datos
 
 El dataset original se encuentra en el archivo [`Ventas Videojuegos.xlsx`](Ventas%20Videojuegos.xlsx). Para optimizar el análisis en Power BI, se aplicaron las siguientes transformaciones en **Power Query**:
 
@@ -55,7 +55,7 @@ El dataset original se encuentra en el archivo [`Ventas Videojuegos.xlsx`](Venta
 
 ---
 
-## 📁 Estructura del Repositorio
+## Estructura del Repositorio
 
 ```
 .
@@ -67,7 +67,7 @@ El dataset original se encuentra en el archivo [`Ventas Videojuegos.xlsx`](Venta
 
 ---
 
-## 🚀 ¿Cómo explorar este proyecto?
+## Como explorar este proyecto?
 
 1. Clona este repositorio en tu máquina local:
    ```bash

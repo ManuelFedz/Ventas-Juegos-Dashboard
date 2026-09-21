@@ -1,3 +1,4 @@
+<img width="1451" height="817" alt="{C944385B-92BF-44BC-B83C-896B56F226E1}" src="https://github.com/user-attachments/assets/e2817176-5ee7-4a0b-8453-2166e05e9ec6" />
 # Video Games Global Sales — Power BI Dashboard & Data Analysis
 
 Dashboard analítico e interactivo desarrollado en **Power BI Desktop** para explorar y visualizar el desempeño comercial histórico de la industria de los videojuegos a nivel mundial, abarcando más de **16,300 títulos** y más de tres décadas de historia (1980 en adelante).

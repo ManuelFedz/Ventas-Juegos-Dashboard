@@ -4,8 +4,6 @@
 
 # Ventas Globales Videojuegos — Dashboard en Power BI.
 
----
-
 ## Descripción del Proyecto
 
 Este proyecto analiza las ventas globales de copias de videojuegos segmentadas por plataformas, géneros, editoriales y regiones geográficas clave (Norteamérica, Europa, Japón y Resto del Mundo).

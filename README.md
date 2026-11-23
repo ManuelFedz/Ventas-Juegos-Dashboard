@@ -1,5 +1,11 @@
 <img width="1451" height="817" alt="{C944385B-92BF-44BC-B83C-896B56F226E1}" src="https://github.com/user-attachments/assets/e2817176-5ee7-4a0b-8453-2166e05e9ec6" />
 
+---
+
+Ventas Globales Videojuegos — Dashboard en Power BI.
+
+---
+
 ## Descripción del Proyecto
 
 Este proyecto analiza las ventas globales de copias de videojuegos segmentadas por plataformas, géneros, editoriales y regiones geográficas clave (Norteamérica, Europa, Japón y Resto del Mundo).
@@ -67,7 +73,7 @@ El dataset original se encuentra en el archivo [`Ventas Videojuegos.xlsx`](Venta
 
 1. Clona este repositorio en tu máquina local:
    ```bash
-   https://github.com/ManuelFedz/Ventas-Juegos-Dashboard
+   git clone https://github.com/ManuelFedz/Ventas-Juegos-Dashboard
    ```
 2. Abre el archivo **`CopiasJuegos.pbix`** con [Power BI Desktop](https://powerbi.microsoft.com/desktop/).
 3. Interactúa con los filtros desplegables para analizar el rendimiento por consola, distribuidor o región.

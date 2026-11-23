@@ -2,7 +2,7 @@
 
 ---
 
-Ventas Globales Videojuegos — Dashboard en Power BI.
+# Ventas Globales Videojuegos — Dashboard en Power BI.
 
 ---
 

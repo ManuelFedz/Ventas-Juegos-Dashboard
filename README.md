@@ -72,7 +72,7 @@ El dataset original se encuentra en el archivo [`Ventas Videojuegos.xlsx`](Venta
 
 1. Clona este repositorio en tu máquina local:
    ```bash
-   git clone https://github.com/ManuelFedz/video-games-sales-dashboard.git
+   https://github.com/ManuelFedz/Ventas-Juegos-Dashboard
    ```
 2. Abre el archivo **`CopiasJuegos.pbix`** con [Power BI Desktop](https://powerbi.microsoft.com/desktop/).
 3. Interactúa con los filtros desplegables para analizar el rendimiento por consola, distribuidor o región.
